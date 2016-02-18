@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hashes vs. Array"
+title: "Hashes vs Array"
 date: 2016-02-16 16:39:18
 comments: true
 description: "The difference between hashes and arrays"
