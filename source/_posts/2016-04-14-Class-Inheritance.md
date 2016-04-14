@@ -42,4 +42,8 @@ Class inheritance is very useful to shorten code and cut down on redundancies. B
 
 
 
+http://rubylearning.com/satishtalim/ruby_inheritance.html
+https://launchschool.com/books/oo_ruby/read/inheritance
+https://newcircle.com/bookshelf/ruby_tutorial/class_inheritance
+
 
